@@ -1,0 +1,81 @@
+cite, footnote {
+    display: none;
+}
+#footer {
+    font-size : 9pt;
+    color: gray;
+    padding: 3px;
+    text-align:right;
+    width: 100%;
+}
+
+body {
+  background-color: #fff; 
+  background: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #ffffff), color-stop(85%, #ffffff), color-stop(100%, #e6e6e6));
+  background: -webkit-linear-gradient(#ffffff, #ffffff 85%, #e6e6e6);
+  background: -moz-linear-gradient(#ffffff, #ffffff 85%, #e6e6e6);
+  background: -o-linear-gradient(#ffffff, #ffffff 85%, #e6e6e6);
+  background: -ms-linear-gradient(#ffffff, #ffffff 85%, #e6e6e6);
+  background: linear-gradient(#ffffff, #ffffff 85%, #e6e6e6);
+}
+
+.reveal section img {
+    border: none;
+    box-shadow: 0 0;
+}
+.reveal h2, .reveal h3, .reveal h4, .reveal h5, .reveal h6 {
+    text-transform: none;
+}
+
+.reveal {
+    font-size: 26px;
+}
+
+.reveal h2 {
+  font-size: 45px;
+  line-height: 45px;
+  letter-spacing: -2px;
+  color: #515151; }
+
+.reveal h3 {
+  font-size: 38px;
+  letter-spacing: -1px;
+  line-height: 2;
+  font-weight: inherit;
+  color: #515151; }
+
+.reveal h4 {
+  font-size: 30px;
+  line-height: 1;
+  font-weight: inherit;
+  color: #515151; }
+
+.reveal .left {
+    text-align: left;
+}
+
+ul {
+  margin-left: 1.2em;
+  margin-bottom: 1em;
+  position: relative; }
+  ul li {
+    margin-bottom: 0.5em; }
+    ul li ul {
+      margin-left: 2em;
+      margin-bottom: 0; }
+      ul li ul li:before {
+        content: '-';
+        font-weight: 600; }
+  ul > li:before {
+    content: '\00B7';
+    margin-left: -1em;
+    position: absolute;
+    font-weight: 600; }
+  ul ul {
+    margin-top: .5em; }
+
+.reval ol, .reveal ul {
+  list-style: none; }
+
+.reval ol li ol , .reveal ul li ul {
+  list-style: none; }

@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="166.09415mm"
+   height="80.163574mm"
+   viewBox="0 0 588.52256 284.04416"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="related-work-trade-off.svg">
+  <defs
+     id="defs4">
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5117"
+       is_visible="true" />
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker4447"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         id="path4449"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path4152"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5117-2"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5117-2-1"
+       is_visible="true" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.979899"
+     inkscape:cx="282.50864"
+     inkscape:cy="144.78463"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1855"
+     inkscape:window-height="1056"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(123.59751,-64.653598)">
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-miterlimit:1;stroke-dasharray:none;marker-end:url(#Arrow1Mend)"
+       d="m 76.771591,321.01176 331.330049,0"
+       id="path4445"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-miterlimit:1;stroke-dasharray:none;marker-end:url(#marker4447)"
+       d="m 76.771591,321.01176 0,-252.538135"
+       id="rect4136"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="184.858"
+       y="346.09766"
+       id="text4630"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="184.858"
+         y="346.09766"
+         id="tspan4632">Potential Generalizability<tspan
+   x="184.858"
+   y="346.09766"
+   id="tspan4634" /></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="91.923828"
+       y="82.953506"
+       id="text4654"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="91.923828"
+         y="82.953506"
+         id="tspan4656"><tspan
+           x="91.923828"
+           y="82.953506"
+           id="tspan4658">Classical mapping</tspan><tspan
+           dx="7.9345703"
+           id="tspan4660" /></tspan><tspan
+         sodipodi:role="line"
+         x="91.923828"
+         y="98.578506"
+         id="tspan4662"><tspan
+           x="91.923828"
+           id="tspan4664">and path planning.</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="163.14"
+       y="121.84454"
+       id="text4666"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="163.14"
+         y="121.84454"
+         id="tspan4668"><tspan
+           x="163.14"
+           y="121.84454"
+           id="tspan4670">Gupta et al 2017</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-94.623474"
+       y="267.21298"
+       id="text5161"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="-94.623474"
+         y="267.21298"
+         id="tspan5163"><tspan
+           x="-94.623474"
+           y="267.21298"
+           id="tspan5165">Shortest path for </tspan><tspan
+           dx="0"
+           x="15.630429"
+           y="267.21298"
+           id="tspan5167" /></tspan><tspan
+         sodipodi:role="line"
+         x="-94.623474"
+         y="282.83798"
+         id="tspan5169"><tspan
+           x="-94.623474"
+           y="282.83798"
+           id="tspan5171">static goal, seen map</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-91.980316"
+       y="189.78041"
+       id="text5173"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="-91.980316"
+         y="189.78041"
+         id="tspan5175"><tspan
+           x="-91.980316"
+           y="189.78041"
+           id="tspan5177">Shortest path for </tspan><tspan
+           dx="0"
+           x="18.273588"
+           y="189.78041"
+           id="tspan5179" /></tspan><tspan
+         sodipodi:role="line"
+         x="-91.980316"
+         y="205.40541"
+         id="tspan5181"><tspan
+           x="-91.980316"
+           y="205.40541"
+           id="tspan5183">random goal, seen map</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-92.990471"
+       y="107.95805"
+       id="text5185"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="-92.990471"
+         y="107.95805"
+         id="tspan5187"><tspan
+           x="-92.990471"
+           y="107.95805"
+           id="tspan5189">Shortest path for </tspan><tspan
+           dx="0"
+           x="17.263435"
+           y="107.95805"
+           id="tspan5191" /></tspan><tspan
+         sodipodi:role="line"
+         x="-92.990471"
+         y="123.58305"
+         id="tspan5193"><tspan
+           x="-92.990471"
+           y="123.58305"
+           id="tspan5195">random goal unseen map</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="342.76794"
+       y="269.17056"
+       id="text4636"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="342.76794"
+         y="269.17056"
+         id="tspan4638"><tspan
+           x="342.76794"
+           y="269.17056"
+           id="tspan4640">Mirowski et al 2017</tspan></tspan></text>
+    <circle
+       r="2.5041947"
+       cy="277.50232"
+       cx="394.94754"
+       id="path5209"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.99161047;stroke-miterlimit:1;stroke-dasharray:none" />
+    <circle
+       cy="104.74591"
+       cx="229.80794"
+       id="path5209-7"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.99161047;stroke-miterlimit:1;stroke-dasharray:none"
+       r="2.5041947" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 70.536888,106.76622 11.616754,0"
+       id="path5115"
+       inkscape:path-effect="#path-effect5117"
+       inkscape:original-d="m 70.536888,106.76622 11.616754,0"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 71.799578,193.63934 11.616754,0"
+       id="path5115-6"
+       inkscape:path-effect="#path-effect5117-2"
+       inkscape:original-d="m 71.799578,193.63934 11.616754,0"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 71.799578,270.41093 11.616754,0"
+       id="path5115-6-8"
+       inkscape:path-effect="#path-effect5117-2-1"
+       inkscape:original-d="m 71.799578,270.41093 11.616754,0"
+       inkscape:connector-curvature="0" />
+    <circle
+       r="2.5041947"
+       cy="105.25098"
+       cx="130.81297"
+       id="path5209-7-9"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.99161047;stroke-miterlimit:1;stroke-dasharray:none" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="343.61157"
+       y="251.33238"
+       id="text4636-2"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="343.61157"
+         y="251.33238"
+         id="tspan4638-0">Parisotto et al 2017<tspan
+   x="343.61157"
+   y="251.33238"
+   id="tspan4640-2" /></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="360.46677"
+       y="235.16994"
+       id="text4636-2-3"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="360.46677"
+         y="235.16994"
+         id="tspan4638-0-7">Oh et al 2017</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-255.81879"
+       y="-114.10043"
+       id="text6385"
+       sodipodi:linespacing="125%"
+       transform="matrix(0,-1,1,0,0,0)"><tspan
+         sodipodi:role="line"
+         x="-255.81879"
+         y="-114.10043"
+         id="tspan6387"><tspan
+           x="-255.81879"
+           y="-114.10043"
+           id="tspan6389">Increasing difficulty</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="221.87494"
+       y="134.88318"
+       id="text5332"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="221.87494"
+         y="134.88318"
+         id="tspan5334"><tspan
+           x="221.87494"
+           y="134.88318"
+           id="tspan5336">?</tspan></tspan></text>
+  </g>
+</svg>
